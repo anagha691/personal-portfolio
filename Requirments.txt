@@ -1,5 +1,0 @@
-gunicorn
-flask
-pytest
-os
-pandas
